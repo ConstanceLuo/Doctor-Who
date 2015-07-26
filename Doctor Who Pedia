@@ -1,0 +1,38 @@
+<!DOCTYPE html><html><head>
+<style>
+body{
+    text-align: center;
+    font-family: Helvetica;
+     background: url("http://img2.wikia.nocookie.net/__cb20130622124902/tardis/images/f/ff/Doctor-who-logo-eleven.jpg");
+     background-size: cover;
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+
+}
+h1{
+    font-size:100px
+    color:white
+}
+
+ input{
+    font-size:12px
+    font-family:times
+    padding: 12px;
+    color:black
+
+ }
+ input[type="submit"] {
+  color: black;
+    }
+</style>
+  <title>Doctor Who</title>
+</head>
+
+<body>
+<img src="http://static.srcdn.com/slir/w700-h350-q90-c700:350/wp-content/uploads/13-Doctor-Who-All-Actors-Cast.jpg">
+<h1>Doctor Who Pedia</h1>
+<input type="what do u like to search" placeholder="search">
+<input type="submit">
+</body>
+</html>
